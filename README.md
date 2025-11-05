@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/026/294/709/original/ai-banner-with-black-background-free-vector.jpg)
+
 <h1 align="center">Hi 👋, I'm Ronak Kanani</h1>
 <h3 align="center">𝗖𝗿𝗮𝗳𝘁𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝘄𝗶𝘁𝗵 𝗔𝗜</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/318273/screenshots/3403867/ai_circuits_dribbble.gif">
