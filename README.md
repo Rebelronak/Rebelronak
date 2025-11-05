@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ronak Kanani</h1>
 <h3 align="center">𝗖𝗿𝗮𝗳𝘁𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝘄𝗶𝘁𝗵 𝗔𝗜</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/318273/screenshots/3403867/ai_circuits_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/red-black-themed-robot-side-view-generative-ai_343887-765.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebelronak&label=Profile%20views&color=0e75b6&style=flat" alt="rebelronak" /> </p>
 
