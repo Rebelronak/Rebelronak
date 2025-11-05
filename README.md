@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebelronak&label=Profile%20views&color=0e75b6&style=flat" alt="rebelronak" /> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🧠 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Machine Learning, AI**
 
